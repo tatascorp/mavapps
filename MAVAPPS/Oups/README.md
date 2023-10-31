@@ -1,4 +1,4 @@
-# WhishNET
+# Oups
 Oups est un programme de préparation de serveur.   
 Une fois votre serveur fraichement mis à jour, vous pouvez lancer Oups et aller prendre un café.
 ## Release note
