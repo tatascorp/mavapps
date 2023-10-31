@@ -11,9 +11,9 @@ Plusieurs MAVAPPS sont disponibles ...
 
 *MAV*
 
-  [1]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/AdCheck.exe
-  [2]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/Oups.exe
-  [3]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/Psss.exe
+  [1]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/AdCheck
+  [2]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/Oups
+  [3]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/Psss
   [4]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/TransP
-  [5]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/VPC.exe
-  [6]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/ZyCrack.exe
+  [5]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/VPC
+  [6]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/ZyCrack
