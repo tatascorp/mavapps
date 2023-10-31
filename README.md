@@ -23,7 +23,7 @@ En faisant un clic droit sur la liste de mots de passe, vous avez la possibilitÃ
 La derniÃ¨re version est disponible [ici][5]
 >*MAV*
 
-  [1]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/AdCheck
+  [1]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/ADCheck
   [2]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/Oups
   [3]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/Psss
   [4]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/TransP

@@ -73,3 +73,5 @@ TransP est un programme de sauvegarde et de restauration de profil Windows
 *22/12/2021*
 * Ajout de l’exclusion *.msi
 * Réorganisation des sélections de base
+
+>*MAV*

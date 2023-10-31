@@ -1,5 +1,6 @@
 # ADCheck
 ADCheck vous permet de tester un identifiant AD à partir d'un poste du même domaine
+## Release note
 ### 1.2
 *22/12/2022*
 * Ajout de "About"
@@ -7,3 +8,5 @@ ADCheck vous permet de tester un identifiant AD à partir d'un poste du même do
 ### 1.1
 *03/06/2022*
 * Modifications mineures
+
+>*MAV*

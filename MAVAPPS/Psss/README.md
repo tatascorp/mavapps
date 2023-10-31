@@ -1,5 +1,6 @@
 # Psss
 Psss est un programme de préparation de session Windows
+## Release note
 ### 2.4
 *13/04/2023*
 * Optimisation du code
@@ -33,3 +34,5 @@ Psss est un programme de préparation de session Windows
 ### 1.3
 *27/12/2021*
 * modification du bouton Courrier
+
+>*MAV*
