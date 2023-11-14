@@ -1,6 +1,13 @@
 # TransP
 TransP est un programme de sauvegarde et de restauration de profil Windows
 ## Release note
+**v5.0** *(14/11/2023)*
+* Ajout d'export et d’import de dossiers supplémentaires
+* Ajout d'export et d’import VPN séparé
+* Remaniement complet de l’interface et ajout de nouvelles icones 
+* Optimisation du code 
+
+
 **v4.6** *(10/11/2023)*
 * Mise en place de la nouvelle fonction de vérification de mise à jour (GitHub)
 
@@ -66,13 +73,13 @@ TransP est un programme de sauvegarde et de restauration de profil Windows
 **v2.0** *(11/01/2022)*
 * Ajout d'une vérification de mise à jour au démarrage
 
-**v1.5** *(27/12/20210*
+**v1.5** *(27/12/20210)*
 * Ajout du mode verbeux
 * Ajout du mode listage uniquement
 * Ajout de la fonctionnalité restauration (en cours de développement)
 * Désactivation des fonctionnalités en cours de développement
 
-**v1.4** *(22/12/2021*
+**v1.4** *(22/12/2021)*
 * Ajout de l’exclusion *.msi
 * Réorganisation des sélections de base
 
