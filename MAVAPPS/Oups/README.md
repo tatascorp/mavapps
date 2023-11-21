@@ -31,7 +31,7 @@ Une fois votre serveur fraichement mis à jour, vous pouvez lancer Oups et aller
     * Modification de l'interface
 
 * **2.1** *(11/01/2022)*
-    * Ajout du téléchargement des outils ADINFO (Supervison et TeamViewer)
+    * Ajout du téléchargement des outils internes (Supervison et TeamViewer)
     * petite modification dans le code
 
 * **2.00** *(30/12/2021)*
