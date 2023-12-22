@@ -3,6 +3,10 @@ Plusieurs MAVAPPS sont disponibles ...
 ## ADCheck
 **ADCheck** vous permet de tester un identifiant AD à partir d'un poste du même domaine   
 La dernière version est disponible [ici][1]
+## copier-taper
+**copier-taper** permet de taper, et non coller, le contenu du presse-papier Windows en utilisant le raccourci :
+Ctrl + Alt + V   
+La dernière version est disponible [ici][8]
 ## Oups
 **Oups** est un programme de préparation de serveur.   
 Une fois votre serveur fraichement mis à jour, vous pouvez lancer Oups et aller prendre un café   
@@ -32,4 +36,6 @@ La dernière version est disponible [ici][6]
   [4]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/TransP
   [5]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/VPC
   [6]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/ZyCrack
-  [7]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/QuickAudit
+  [7]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/
+  [8]: https://github.com/tatascorp/mavapps/tree/main/copier-taper/
+  QuickAudit
