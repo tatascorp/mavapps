@@ -5,7 +5,7 @@ Plusieurs MAVAPPS sont disponibles ...
 La dernière version est disponible [ici][1]
 ## copier-taper
 **copier-taper** permet de taper, et non coller, le contenu du presse-papier Windows en utilisant le raccourci :
-Ctrl + Alt + V   
+`Ctrl` + `Alt` + `V`   
 La dernière version est disponible [ici][8]
 ## Oups
 **Oups** est un programme de préparation de serveur.   
