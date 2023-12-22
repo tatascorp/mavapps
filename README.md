@@ -4,7 +4,7 @@ Plusieurs MAVAPPS sont disponibles ...
 **ADCheck** vous permet de tester un identifiant AD à partir d'un poste du même domaine   
 La dernière version est disponible [ici][1]
 ## copier-taper
-**copier-taper** permet de taper, et non coller, le contenu du presse-papier Windows en utilisant le raccourci :
+**copier-taper** permet de taper, et non coller, le contenu du presse-papier Windows en utilisant le raccourci :   
 `Ctrl` + `Alt` + `V`   
 La dernière version est disponible [ici][8]
 ## Oups
