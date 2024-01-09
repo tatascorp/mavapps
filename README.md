@@ -36,6 +36,5 @@ La dernière version est disponible [ici][6]
   [4]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/TransP
   [5]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/VPC
   [6]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/ZyCrack
-  [7]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/
-  [8]: https://github.com/tatascorp/mavapps/tree/main/copier-taper/
-  QuickAudit
+  [7]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/QuickAudit
+  [8]: https://github.com/tatascorp/mavapps/tree/main/MAVAPPS/copier-taper/
