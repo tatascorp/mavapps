@@ -3,6 +3,8 @@ copier-taper permet de taper, et non coller, le contenu du presse-papier Windows
 `Ctrl` + `Alt` + `V`
 
 ## Release note
+* **v1.2** *(10/01/2024)*
+    * Ajout de l'option de modificaiton de la limite de caractères (50, 100, 200, 500, aucune)
 
 * **v1.1** *(09/01/2024)*
     * Correction de bug : `Ctrl` & `Alt` restent enfoncées si le contenu du presse-papier et trop volumineux
