@@ -1,4 +1,4 @@
-# QuickAudit
+# MailMe
 MailME est un programme de test de serveur SMTP
 
 ![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/MailMe/MailMe_img-01.png)
