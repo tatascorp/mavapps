@@ -3,6 +3,13 @@ copier-taper permet de taper, et non coller, le contenu du presse-papier Windows
 `Ctrl` + `Alt` + `V`
 
 ## Release note
+* **v1.4** *(12/04/2024)*
+    * Optimisation du code du gestionnaire de plugins
+    * Ajout du raccourci : `Ctrl` + `Alt` + `I` pour voir le contenu du presse-papier 
+
+* **v1.3** *(16/02/2024)*
+    * Ajout du module d'extention (plugins)
+
 * **v1.2** *(10/01/2024)*
     * Ajout de l'option de modificaiton de la limite de caractères (50, 100, 200, 500, aucune)
 
