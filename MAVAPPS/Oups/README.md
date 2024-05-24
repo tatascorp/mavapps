@@ -4,6 +4,16 @@ Une fois votre serveur fraichement mis à jour, vous pouvez lancer Oups et aller
 
 ![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/Oups/Oups_img-01.png)
 ## Release note
+* **3.19** *(24-05-2023)*
+    * Mise à jour 7Zip (24.05)
+    * Mise à jour Notepad ++ (8.6.7)
+    * Mise à jour Veeam Agent (6.1.2.134)
+
+* **3.17** *(16-08-2023)*
+    * Mise à jour Notepad ++ (8.6.1)
+    * Mise à jour Veeam Agent (6.1.0.349)
+    * Mise à jour .NET Framework (4.8.1)
+
 * **3.16** *(16-08-2023)*
     * Mise à jour Notepad (8.5.6)
     * Suppression (Désinstallation de Windows Defender)
