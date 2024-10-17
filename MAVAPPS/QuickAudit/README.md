@@ -1,6 +1,11 @@
 # QuickAudit
 Logiciel d'audit pour Windows   
 ## Release note
+* **1.6** *(17/10/2024)*
+    * Ajout du GPU dans l'inventaire
+    * Correction du BUG de décalage dans le tableau causé par certain modèle
+    * Amélioration de la détection de l'antivirus
+
 * **1.5** *(20/12/2023)*
     * Mise à jour de la vérification de la version de .NET (v4.8.1)
 
