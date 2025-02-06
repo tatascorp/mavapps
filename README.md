@@ -29,11 +29,11 @@ La dernière version est disponible [ici][5]
 ## ZyCrack
 **ZyCrack** est un programme de décryptage de mots de passe, de fichiers de configuration de routeurs Zyxel.   
 Pour l’utiliser, il suffit de charger un fichier de configuration en utilisant le bouton **Parcourir** puis de cliquer sur le bouton **Crack**.   
-En faisant un clic droit sur la liste de mots de passe, vous avez la possibilité d'exporter des données grâce au menu contextuel
+En faisant un clic droit sur la liste de mots de passe, vous avez la possibilité d'exporter des données grâce au menu contextuel   
 La dernière version est disponible [ici][6]
 ## PDF1
 **PDF1** est un programme qui permet de fusionner des fichiers PDF.
-Pour l’utiliser, il suffit de **glisser-déposer** des fichiers PDF dans la fenêtre, de les trier, puis cliquer sur le boutton **Fusionner** ... aussi simple que ça :wink:
+Pour l’utiliser, il suffit de **glisser-déposer** des fichiers PDF dans la fenêtre, de les trier, puis cliquer sur le boutton **Fusionner** ... aussi simple que ça :wink:   
 La dernière version est disponible [ici][10]
 >*MAV*
 
