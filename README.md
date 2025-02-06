@@ -32,7 +32,7 @@ Pour l’utiliser, il suffit de charger un fichier de configuration en utilisant
 En faisant un clic droit sur la liste de mots de passe, vous avez la possibilité d'exporter des données grâce au menu contextuel
 La dernière version est disponible [ici][6]
 ## PDF1
-**PDF1** PDF1 est un programme qui permet de fusionner des fichiers PDF.
+**PDF1** est un programme qui permet de fusionner des fichiers PDF.
 Pour l’utiliser, il suffit de **glisser-déposer** des fichiers PDF dans la fenêtre, de les trier, puis cliquer sur le boutton **Fusionner** ... aussi simple que ça ;)
 La dernière version est disponible [ici][10]
 >*MAV*
