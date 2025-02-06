@@ -1,6 +1,6 @@
 # PDF1
 PDF1 est un programme qui permet de fusionner des fichiers PDF.
-Pour l’utiliser, il suffit de **glisser-déposer** des fichiers PDF dans la fenêtre, de les trier, puis cliquer sur le boutton **Fusionner** ... aussi simple que ça ;)
+Pour l’utiliser, il suffit de **glisser-déposer** des fichiers PDF dans la fenêtre, de les trier, puis cliquer sur le boutton **Fusionner** ... aussi simple que ça :wink:
 
 ![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/PDF1/PDF1_img-01.png)
 ## Release note
