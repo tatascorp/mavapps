@@ -1,5 +1,5 @@
 # ZyCrack
-ZyCrack es un programme de décryptage de mots de passe, de fichiers de configuration de routeurs Zyxel.   
+ZyCrack est un programme de décryptage de mots de passe, de fichiers de configuration de routeurs Zyxel.   
 Pour l’utiliser, il suffit de charger un fichier de configuration en utilisant le bouton **Parcourir** puis de cliquer sur le bouton **Crack**.   
 En faisant un clic droit sur la liste de mots de passe, vous avez la possibilité d'exporter des données grâce au menu contextuel
 
