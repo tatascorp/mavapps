@@ -4,6 +4,10 @@ Pour l’utiliser, il suffit de **glisser-déposer** des fichiers PDF dans la fe
 
 ![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/PDF1/PDF1_img-01.png)
 ## Release note
+* **1.4** *(31/03/2025)*
+    * Boîte de dialogue "Sauvegarder sous" au-dessus de la fenêtre principale
+    * Ajout d'un vérification d'écrasement de fichier éxistant avant sauvegarde
+
 * **1.3** *(07/03/2025)*
     * Ajout d'une image de fond dans le listView
     * Boîte de dialogue "Ajouter un fichier PDF" au-dessus de la fenêtre principale
