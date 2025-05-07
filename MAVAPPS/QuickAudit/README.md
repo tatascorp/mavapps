@@ -1,6 +1,9 @@
 # QuickAudit
 Logiciel d'audit pour Windows   
 ## Release note
+* **1.7** *(07/05/2025)*
+    * Ajout de la vérification de l'appartenance de l'utilisateur courent au groupe Administrateurs et de l'UAC dans l'inventaire
+
 * **1.6** *(17/10/2024)*
     * Ajout du GPU dans l'inventaire
     * Correction du BUG de décalage dans le tableau causé par certain modèle
