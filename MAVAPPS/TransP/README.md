@@ -3,6 +3,16 @@ TransP est un programme de sauvegarde et de restauration de profil Windows
 
 ![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/TransP/TransP_img-01.png)
 ## Release note
+* **v6** *(02/04/2026)*
+    * Reconfiguration complète de l'interface
+    * Suppression complète des fonctions d'extraction de mots de passe Chrome et Edge
+    * Ajout d'une fonctionnalité d'export/import des imprimantes en utilisant l'outil PrintBrm
+    * Ajout d'une fonctionnalité de décryptage du gestionnaire d'identification Windows (CredManager)
+    * Décalage du SplashScreen 80% de largeur et 10% de hauteur de l'écran
+    * Intégration de l'application Psss
+    * Intégration de la gestion des applications par défaut (Navigateurs, lecteurs PDF et Outlook)
+    * Ajout de raccourcis systèmes et imprimantes
+
 * **v5.5** *(04/11/2025)*
     * Suppression de la fonction d'extraction de mots de passe Chrome et Edge
     * Amélioration de la détéction faux-positif passant de 19/72 à 10/72 sur virustotal
