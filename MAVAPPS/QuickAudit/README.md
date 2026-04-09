@@ -1,6 +1,10 @@
 # QuickAudit
 Logiciel d'audit pour Windows   
 ## Release note
+* **1.8** *(08/04/2026)*
+    * Amélioration de la détection GPU en cas de double cartes. Ajout de préférences pour les cartes NVIDIA puis AMD, Radeon et ATI
+    * Ajout de fonctionnalités en ligne de commande (CLI). QuickAudit.exe /? pour plus d'infos
+
 * **1.7** *(07/05/2025)*
     * Ajout de la vérification de l'appartenance de l'utilisateur courent au groupe Administrateurs et de l'UAC dans l'inventaire
 
