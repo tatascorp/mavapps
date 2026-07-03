@@ -1,7 +1,7 @@
 # TransP
 TransP est un programme de sauvegarde et de restauration de profil Windows
 
-![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/TransP/TransP_img-02.png)
+![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/TransP/TransP_img-03.png)
 ## Release note
 * **v6.4** *(02/07/2026)*
     * Ajout d'une fonctionnalité d'exclusion des caches navigateurs lors de la copie des profils (Chrome, Edge, Firefox) ... Merci la team BZH ;)
