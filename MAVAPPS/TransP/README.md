@@ -3,8 +3,21 @@ TransP est un programme de sauvegarde et de restauration de profil Windows
 
 ![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/TransP/TransP_img-02.png)
 ## Release note
+* **v6.4** *(02/07/2026)*
+    * Ajout d'une fonctionnalité d'exclusion des caches navigateurs lors de la copie des profils (Chrome, Edge, Firefox) ... Merci la team BZH ;)
+    * Bascule définitive en version 64bits
+
+* **v6.3** *(19/06/2026)*
+    * Correction majeure de divers bugs et amélioration globale du code
+
+* **v6.2** *(30/04/2026)*
+    * Ajout de 2 nouveaux boutons, _Add printer_ (Ajouter une Imprimante) et _Print server_ (Serveur d’impression)
+    * Correction de la désactivation des Widgets dans Psss (Uniquement sur session en AdminLocal)
+    * Correction de la configuration du programme par défaut pour les fichiers PDF (Affichage du nom sans l'extension .pdf pour certains postes dans Propriétés du document)
+    * Optimisation du code 
+
 * **v6.1** *(09/04/2026)*
-    * Correction du bug de nom de dossier de sauvegarde (double bascks\ash)
+    * Correction du bug de nom de dossier de sauvegarde (double backs\ash)
     * Correction du bug de restauration depuis une session avec un nom différent impactant le Wifi, le VPN et le PrintBRM
 
 * **v6** *(02/04/2026)*
