@@ -3,6 +3,10 @@ VPC (Veeam Password Cracker) est un programme de décryptage de mots de passe de
 
 ![MarkdownViewer++](https://raw.githubusercontent.com/tatascorp/mavapps/main/MAVAPPS/VPC/VPC_img-01.png)
 ## Release note
+* **2.7** *(23/10/2026)*
+    * Correction de la détection de la version de PostgreSQL pour les clés de chiffrement ainsi que du correctif SSPI. Dans certains cas, la clé de chiffrement n'était pas détectée correctement.
+    * Optimisation du code
+
 * **2.6** *(19/06/2026)*
     * Correction BUG : ajout d’une fonction de détection de la version de PostgreSQL afin d’exécuter les requêtes avec le bon chemin vers l’exécutable
 
